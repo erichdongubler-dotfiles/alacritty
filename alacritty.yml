@@ -1,0 +1,7 @@
+cursor:
+  style:
+    shape: Beam
+    blinking: On
+
+shell:
+  program: nu
